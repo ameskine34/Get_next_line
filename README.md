@@ -2,6 +2,7 @@ The GET_NEXT_LINE function allows you to read content line by line from a file d
 This project introduces the concept of static variables in C programming and deepens understanding of file manipulation, memory allocation, and optimal buffer management.
 
 This implementation can:
+
 -Read from multiple file descriptors simultaneously without losing track of reading position
 
 -Handle different line endings
